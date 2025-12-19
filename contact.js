@@ -1,5 +1,5 @@
 // CONFIGURATION - Edit this email address
-const CONTACT_EMAIL = "contact@healesvillemagiccarwash.com.au";
+const CONTACT_EMAIL = "mcdbaker@optusnet.com.au";
 
 // Set current year in footer
 document.getElementById("year").textContent = new Date().getFullYear();
